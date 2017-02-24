@@ -1,4 +1,4 @@
-var json_PublicHousing2={
+var json_PublicResidential4={
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
@@ -612,8 +612,6 @@ var json_PublicHousing2={
 { "type": "Feature", "properties": { "PostalCode": "150104", "X-Coord": 26688.9317, "Y-Coord": 30197.4258 }, "geometry": { "type": "Point", "coordinates": [ 103.821538089604005, 1.289369274816009 ] } },
 { "type": "Feature", "properties": { "PostalCode": "150105", "X-Coord": 26780.0526, "Y-Coord": 30290.8531 }, "geometry": { "type": "Point", "coordinates": [ 103.822356844860622, 1.290214202170967 ] } },
 { "type": "Feature", "properties": { "PostalCode": "150106", "X-Coord": 26770.8977, "Y-Coord": 30203.7992 }, "geometry": { "type": "Point", "coordinates": [ 103.822274587678649, 1.28942691693274 ] } },
-{ "type": "Feature", "properties": { "PostalCode": "150111", "X-Coord": null, "Y-Coord": null }, "geometry": { "type": "Point", "coordinates": [ 103.822274587678649, 1.28942691693274 ] } },
-{ "type": "Feature", "properties": { "PostalCode": "150113", "X-Coord": null, "Y-Coord": null }, "geometry": { "type": "Point", "coordinates": [ 103.822274587678649, 1.28942691693274 ] } },
 { "type": "Feature", "properties": { "PostalCode": "150115", "X-Coord": 25910.5182, "Y-Coord": 29617.888 }, "geometry": { "type": "Point", "coordinates": [ 103.814543761651848, 1.28412809638932 ] } },
 { "type": "Feature", "properties": { "PostalCode": "150116", "X-Coord": 25959.4355, "Y-Coord": 29593.8057 }, "geometry": { "type": "Point", "coordinates": [ 103.814983304413602, 1.283910307741382 ] } },
 { "type": "Feature", "properties": { "PostalCode": "150117", "X-Coord": 26007.0401, "Y-Coord": 29565.2818 }, "geometry": { "type": "Point", "coordinates": [ 103.815411052256849, 1.283652350662503 ] } },
